@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cabecera>
+  <producto>
+    <Producto_Img_cabecero data-url="https://www.dropbox.com/sh/bfp58our2pnzsfo/AAAZi8pDFQR0MWuU6k2zAS65a?dl=0" data-url-mobile="" data-size="1920x180"></Producto_Img_cabecero>
+    <Producto_Img_thumb data-url="https://www.grupoblux.com/skin/frontend/rwd/default/images/" data-size="600x600"></Producto_Img_thumb>
+    <Producto_Img_thumb_Proyectos data-url="https://www.grupoblux.com/skin/frontend/rwd/default/images/" data-size="600x600">
+    </Producto_Img_thumb_Proyectos>
+    <Proyectos data-ids="{value}, {value}" />
+    <!--Proyectos data-ids="{value}, {value}">
+      <Proyecto data-name="Prueba" />
+      <Proyecto data-name="Prueba" />
+    </Proyectos-->
+    <Descargas>
+      <Descarga 
+        title="Ficha Tecnica"
+        title-en="Ficha Tecnica" 
+        url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" 
+        url-en="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" 
+      />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/es/Generatepdf2/index/generatePdf2File/id/1501/select/1501/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1507/select/1507/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/en/Generatepdf2/index/generatePdf2File/id/1497/select/1497/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/es/Generatepdf2/index/generatePdf2File/id/1501/select/1501/" />
+      <Descarga title="Ficha Tecnica" url="https://www.grupoblux.com/es/Generatepdf2/index/generatePdf2File/id/1501/select/1501/" />
+      <Descarga title="1Prueba" url="https://bluxweb000.blob.core.windows.net/blux-web-imagenes/BOWEE_S.pdf" />
+    </Descargas>
+    <Disenador data-id="{value}" data-name="Werner Aislinger" />
+    <Mercado data="usa, internacional, europa" />
+    <Producto_Nombre_Web data="Bowee F 20220908" es="Bowee F 20220908"/>
+    <Producto_Descripcion data="[ACTUALIZADO09:41] Luminaria LED de pie formada por una pantalla de forma semiesférica y base de hormigón. La fuente de luz es orientable en su eje horizontal y emite luz directa y difusa. Disponible en acabado bronce inglés metalizado, turquesa mate, y beige mate." />
+    <Producto_id data="1121" />
+    <Producto_id_Colecciones>
+      <Coleccion data-name="Decorative lighting, Decorative lighting">
+      </Coleccion>
+    </Producto_id_Colecciones>
+    <Producto_id_Familia>
+      <Familia data-name="Bowee">
+      </Familia>
+    </Producto_id_Familia>
+    <Producto_id_Funcion>
+      <Funcion data-name="Funcion 1">
+      </Funcion>
+    </Producto_id_Funcion>
+    <Producto_Images_Galeria_Loop>
+      <Image_galeria data-alt="1950x850" data-url="https://www.grupoblux.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/a/s/aspen_s17a-s17b-werner_aisslinger-blux-01_1.jpg">
+      </Image_galeria>
+    </Producto_Images_Galeria_Loop>
+    <Images_Icon_Loop>
+      <Image_Icon data-name="Bowee Floor [ACTUALIZADO09:41]" data-url="https://www.dropbox.com/s/o4any3bpxiwaflo/icono-floor.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="IP20" data-url="https://www.dropbox.com/s/2mizs0mkkli5q7e/icono-ip20.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="DIM" data-url="https://www.dropbox.com/s/1h7ij82gepbr34s/icono-DIM.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="Bluetooth" data-url="https://www.dropbox.com/s/ouuez32u711d8bs/icono-bluetooth.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="Clase I" data-url="https://www.dropbox.com/s/ns0okn9wzjorbk6/icono-clase-I.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="European Norm" data-url="https://www.dropbox.com/s/6c7j5sh6adv0xjj/icono-european-norm.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="EAC" data-url="https://www.dropbox.com/s/bknxi0cjh794no7/icono-EAC.jpg?dl=0">
+      </Image_Icon>
+    </Images_Icon_Loop>
+    <Modelos_loop>
+      <Modelo mercado="usa, internacional" modelo-id="1" modelo-nombre="Bowee F [ACTUALIZADO09:41]" modelo-iluminacion="9W 1100lm 500mA " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758203" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="2" modelo-nombre="Bowee S 1" modelo-iluminacion="8W 560lm CRI90 DIM PHASE CUT" modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758200" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758201" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758202" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758303" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="3" modelo-nombre="Bowee S 2" modelo-iluminacion="2 x 8W 1120lm CRI90 DIM PHASE CUT" modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758320" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758322" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758323" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758353" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="4" modelo-nombre="Bowee S 4" modelo-iluminacion="4 x 8W 2240lm CRI90 " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758363" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758300" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758301" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758302" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+    </Modelos_loop>
+  </producto>
+
+
+
+
+
+
+
+  <producto>
+    <Producto_Img_cabecero data-url="https://www.dropbox.com/sh/sxxc5ipzuna8t8q/AACJ3M3Wv_TRwX-9Zv7ZXfFna?dl=0" data-size="">
+    </Producto_Img_cabecero>
+    <Producto_Img_thumb data-url="" data-size="">
+    </Producto_Img_thumb>
+    <Producto_Img_thumb_Proyectos data-url="" data-size="">
+    </Producto_Img_thumb_Proyectos>
+    <Proyectos />
+    <Descargas>
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1215/product/1497/bowee_s1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1215/product/1497/bowee_s1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1215/product/1497/bowee_s1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1217/product/1497/bowee_sh_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1219/product/1507/bowee_w2_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1219/product/1507/bowee_w2_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1219/product/1507/bowee_w2_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1214/product/1501/bowee_f_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1218/product/1507/bowee_w1_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1216/product/1497/bowee_s2_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1214/product/1501/bowee_f_assembly_blux.pdf" />
+      <Descarga title="Instruciones Montaje" url="https://www.grupoblux.com/en/downloads/dl/file/id/1214/product/1501/bowee_f_assembly_blux.pdf" />
+    </Descargas>
+    <Disenador data-name="Pepito Prueba [ACTUALIZADO09:41]" data-id="5" />
+    <Producto_Nombre_Web data="Bowee S 20220908" />
+    <Producto_Descripcion data="[ACTUALIZADO09:41] Luminaria LED de suspensión formada por pantallas de forma semiesférica, disponible en versión vertical (S) y horizontal (SH). Bowee S está disponible con una única pantalla (S1) y con dos pantallas (S2). Bowee SH se comercializa con cuatro pantallas (SH4) y con seis pantallas (SH6). Todas las fuentes de luz son orientables en su eje horizontal y emiten luz difusa. Disponible en acabado bronce inglés metalizado, turquesa mate, y beige mate." />
+    <Producto_id data="212121" />
+    <Producto_id_Colecciones>
+      <Coleccion />
+    </Producto_id_Colecciones>
+    <Producto_id_Familia>
+      <Familia data-id="5" data-name="Bowee [ACTUALIZADO09:41]">
+      </Familia>
+    </Producto_id_Familia>
+    <Producto_id_Funcion>
+      <Funcion data-name="2, 2, 2, 2">
+      </Funcion>
+    </Producto_id_Funcion>
+    <Producto_Images_Galeria_Loop>
+      <Image_galeria data-alt="1950x850" data-url="https://www.grupoblux.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/a/s/aspen_s17a-s17b-werner_aisslinger-blux-01_1.jpg">
+      </Image_galeria>
+    </Producto_Images_Galeria_Loop>
+    <Images_Icon_Loop>
+      <Image_Icon data-name="Bowee Suspension [ACTUALIZADO09:41]" data-url="https://www.dropbox.com/s/sfqq8sw4mrjrjl6/icono-suspension.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="IP20" data-url="https://www.dropbox.com/s/2mizs0mkkli5q7e/icono-ip20.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="DIM" data-url="https://www.dropbox.com/s/1h7ij82gepbr34s/icono-DIM.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="Clase I" data-url="https://www.dropbox.com/s/ns0okn9wzjorbk6/icono-clase-I.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="European Norm" data-url="https://www.dropbox.com/s/6c7j5sh6adv0xjj/icono-european-norm.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="EAC" data-url="https://www.dropbox.com/s/bknxi0cjh794no7/icono-EAC.jpg?dl=0">
+      </Image_Icon>
+    </Images_Icon_Loop>
+    <Modelos_loop>
+      <Modelo modelo-id="5" modelo-nombre="Bowee S 6" modelo-iluminacion="6 x 8W 3360lm CRI90 " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758321" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758350" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758351" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758352" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="6" modelo-nombre="Bowee W 1 Left" modelo-iluminacion="8W 560lm CRI90 " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758360" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758361" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758362" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758103" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+    </Modelos_loop>
+  </producto>
+  <producto>
+    <Producto_Img_cabecero data-url="https://www.dropbox.com/sh/mqndoj6tnzprfb9/AABlRAKZvCccLbuU4RCdnkJha?dl=0" data-size="">
+    </Producto_Img_cabecero>
+    <Producto_Img_thumb data-url="" data-size="">
+    </Producto_Img_thumb>
+    <Producto_Img_thumb_Proyectos data-url="" data-size="">
+    </Producto_Img_thumb_Proyectos>
+    <Proyectos />
+    <Descargas>
+      <Descarga title="3D" url="https://www.dropbox.com/s/p1ch5b96jlfgbqk/Bowee_S1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/p1ch5b96jlfgbqk/Bowee_S1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/p1ch5b96jlfgbqk/Bowee_S1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/lt6ax07wbs3hgdt/Bowee_W2-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/lt6ax07wbs3hgdt/Bowee_W2-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/lt6ax07wbs3hgdt/Bowee_W2-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/3D/3D_Reducido/BOWEE?preview=Bowee_F-3D-BLUX.3DS" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="https://www.dropbox.com/s/m3k9qudpjbzukac/Bowee_W1-3D-BLUX.3DS?dl=0" />
+      <Descarga title="3D" url="NO APLICA" />
+      <Descarga title="3D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/3D/3D_Reducido/BOWEE?preview=Bowee_F-3D-BLUX.3DS" />
+      <Descarga title="3D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/3D/3D_Reducido/BOWEE?preview=Bowee_F-3D-BLUX.3DS" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=BoweeS-BLUX-DS.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=BoweeS-BLUX-DS.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=BoweeS-BLUX-DS.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/eprcaamm2n4bii6/BoweeSH-BLUX-DS.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=Bowee-BLUX-DF.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/s/a90dk4wzq20aqzm/Bowee-BLUX-DW.ai?dl=0" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=BoweeS-BLUX-DS.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=Bowee-BLUX-DF.ai" />
+      <Descarga title="2D" url="https://www.dropbox.com/home/Material%20Cat%C3%A1logo%202020/CROQUIS_CATALOGO_V3?preview=Bowee-BLUX-DF.ai" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/1n99075q8nb6e1o/Werner%20Aisslinger_Bowee_F_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="NO APLICA" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/dck0sxw2fssb2o5/Werner%20Aisslinger_Bowee_S_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/1n99075q8nb6e1o/Werner%20Aisslinger_Bowee_F_Sub%20ESP.mp4?dl=0" />
+      <Descarga title="Video" url="https://www.dropbox.com/s/1n99075q8nb6e1o/Werner%20Aisslinger_Bowee_F_Sub%20ESP.mp4?dl=0" />
+    </Descargas>
+    <Disenador data-name="Werner Aislinger" data-id="4" />
+    <Producto_Nombre_Web data="Bowee W 20220908" />
+    <Producto_Descripcion data="[ACTUALIZADO09:41] Luminaria LED de pared formada por pantallas de forma semiesférica. Está disponible con una única pantalla (W1 left y W1 right), ambos con interruptor, y también con doble pantalla (W2). En todas ellas, la fuente de luz es orientable en su eje horizontal, y emite luz directa y difusa. Disponible en acabado bronce inglés metalizado, turquesa mate, y beige mate." />
+    <Producto_id data="321212" />
+    <Producto_id_Colecciones>
+      <Coleccion data-id="6" data-name="Decorative lighting [ACTUALIZADO09:41]">
+      </Coleccion>
+    </Producto_id_Colecciones>
+    <Producto_id_Familia>
+      <Familia data-id="6" data-name="Bowee [ACTUALIZADO09:41]">
+      </Familia>
+    </Producto_id_Familia>
+    <Producto_id_Funcion>
+      <Funcion />
+    </Producto_id_Funcion>
+    <Producto_Images_Galeria_Loop />
+    <Images_Icon_Loop>
+      <Image_Icon data-name="Bowee Wall" data-url="https://www.dropbox.com/s/k9qg7oebx4m6mqr/icono-wall.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="IP20" data-url="https://www.dropbox.com/s/2mizs0mkkli5q7e/icono-ip20.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="DIM" data-url="https://www.dropbox.com/s/1h7ij82gepbr34s/icono-DIM.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="Clase I" data-url="https://www.dropbox.com/s/ns0okn9wzjorbk6/icono-clase-I.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="European Norm" data-url="https://www.dropbox.com/s/6c7j5sh6adv0xjj/icono-european-norm.jpg?dl=0">
+      </Image_Icon>
+      <Image_Icon data-name="EAC" data-url="https://www.dropbox.com/s/bknxi0cjh794no7/icono-EAC.jpg?dl=0">
+      </Image_Icon>
+    </Images_Icon_Loop>
+    <Modelos_loop>
+      <Modelo modelo-id="7" modelo-nombre="Bowee W 1 Right" modelo-iluminacion="8W 560lm CRI90 " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758113" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758123" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758100" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758101" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="8" modelo-nombre="Bowee W 2" modelo-iluminacion="2 x 8W 1120lm CRI90 DIM PHASE CUT" modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="758102" data-name="Beige" data-url-image="https://www.dropbox.com/s/urolg86d5e5aci0/Beige-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758110" data-name="Clear Turquoise" data-url-image="https://www.dropbox.com/s/owgvcyh5edu581o/clear-turquoise-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758111" data-name="Metallic English Bronze" data-url-image="https://www.dropbox.com/s/gvmz2g7lklnn8y2/metallic-english-bronze-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+          <Modelo_Acabado data-ref="758112" data-name="Black" data-url-image="https://www.dropbox.com/s/pg83qwmn84x68jj/black-bowee.jpg?dl=0">
+          </Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+    </Modelos_loop>
+  </producto>
+
+
+
+
+  
+</Cabecera> 

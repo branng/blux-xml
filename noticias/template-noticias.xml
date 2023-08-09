@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cabecera>
+  <noticia>
+    <title data="Título de la noticia"/>
+    <fecha data="VIE | 05 AGO 2022" />
+    <subtitle data="Título de la noticia"/>
+    <autor data="Pedro Casablanca" />
+    <categorias data="Categoria, Destacada, Otra Categoria" />
+    <tags data="tag, Otro tag, Otra Categoria de tag" />
+    <video data_url="https://vimeo/1234123" />
+    <thumbnail data-url="https://blux.com/core/img.png" data-size="1180x695" />
+    <gallery>
+      <gallery_img data-url="https://blux.com/core/img.png" data-size="1180x695" />
+      <gallery_img data-url="https://blux.com/core/img.png" data-size="1180x695" />
+    </gallery>
+    <content data="{{pendiente}}">
+  </noticia>
+</Cabecera> 

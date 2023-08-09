@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cabecera>
+  <sistema>
+    <Producto_Img_cabecero data-url="{{url}}" data-size="1920x1080">
+    </Producto_Img_cabecero>
+    <Producto_Img_thumb data-url="{{url}}">
+    </Producto_Img_thumb>
+    <Producto_Responsive_cabecero data-url="{{url}}">
+    </Producto_Responsive_cabecero>
+    <Producto_Img_thumb_Proyectos data-url="{{url}}">
+    </Producto_Img_thumb_Proyectos>
+    <Proyectos data-ids="1, 2">
+    </Proyectos>
+    <Descargas>
+      <Descarga title="Detalles técnicos" url="Automática" />
+      <Descarga title="Curvas de luz" url="{{url}}" />
+      <Descarga title="Diseños (2d/3d)" url="{{url}}" />
+      <Descarga title="Instrucciones de montaje" url="{{url}}" />
+    </Descargas>
+    <Disenador data-id="{{id}}" />
+    <Producto_Nombre_Web data="{{nombre}}" />
+    <Producto_Descripcion data="{{descripcion}}" />
+    <Producto_id data="{{id}}" mercado="{{mercado}}" />
+    <Producto_Colecciones data-name="{{coleccion}}"></Producto_Colecciones>
+    <Producto_Familia data-name="{{nombre}}"></Producto_Familia>
+    <Producto_Funcion data-name="{{funcion}}"></Producto_Funcion>
+    <Producto_Images_Galeria_Loop>
+      <Image_galeria data-alt="{{alt}}" data-url="{{url}}"></Image_galeria>
+      <Image_galeria data-alt="{{alt}}" data-url="{{url}}"></Image_galeria>
+    </Producto_Images_Galeria_Loop>
+    <Producto_Images_Aplicaciones_Loop>
+      <Image_Aplicacion data-alt="{{alt}}" data-descripcion="{{descripcion}}" data-url="{{url}}"></Image_Aplicacion>
+      <Image_Aplicacion data-alt="{{alt}}" data-descripcion="{{descripcion}}" data-url="{{url}}"></Image_Aplicacion>
+    </Producto_Images_Aplicaciones_Loop>
+    <Images_Icon_Loop>
+      <Image_Icon data-name="{{name}}" data-url="{{url}}"></Image_Icon>
+      <Image_Icon data-name="{{name}}" data-url="{{url}}"></Image_Icon>
+      <Image_Icon data-name="{{name}}" data-url="{{url}}"></Image_Icon>
+      <Image_Icon data-name="{{name}}" data-url="{{url}}"></Image_Icon>
+      <Image_Icon data-name="{{name}}" data-url="{{url}}"></Image_Icon>
+    </Images_Icon_Loop>
+    <Modelos_loop>
+      <Group>
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+      </Group>
+      <Group>
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+      </Group>
+      <Group>
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+        <Modelo data-ref="{{ref}}" data-luminaria="{{luminaria}}" data-fuente-luz="{{fuendeLuz}}" />
+      </Group>
+    </Modelos_loop>
+  </sistema>
+</Cabecera>

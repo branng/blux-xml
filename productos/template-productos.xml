@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cabecera>
+  <producto>
+    <Producto_Img_cabecero data-url="{url}" data-size="1920x180">
+    </Producto_Img_cabecero>
+    <Producto_Img_thumb data-url="{url}" data-size="600x600">
+    </Producto_Img_thumb>
+    <Producto_Img_thumb_Proyectos data-url="{url}" data-size="600x600">
+    </Producto_Img_thumb_Proyectos>
+    <Proyectos data-ids="{value}, {value}" />
+    <!--
+      Antiguo
+      <Proyectos data-ids="{value}, {value}">
+      <Proyecto data-name="Prueba" />
+      <Proyecto data-name="Prueba" />
+      </Proyectos>
+    -->
+    <ProductoTag data="New!" />
+    <Descargas>
+      <Descarga 
+        title="{titulo-ficha-en}"
+        title-en="{titulo-ficha-en}" 
+        url="{url-de-descarga-es}" 
+        url-en="{url-de-descarga-en}" 
+      />
+      <Descarga 
+        title="{titulo-ficha-en}"
+        title-en="{titulo-ficha-en}" 
+        url="{url-de-descarga-es}" 
+        url-en="{url-de-descarga-en}" 
+      />
+    </Descargas>
+
+    <!-- MODIFICACION -->
+    <Disenador data-id="{value}" />
+    <!--
+    ANTIGUO
+    <Disenador data-id="{value}" data-name="Werner Aislinger" />
+    -->
+    <Producto_Nombre_Web data="{producto-nombre}" data-en="{producto-nombre-en}" />
+    <Producto_Descripcion data="{descripcion}" data-en="{descripcion-en}" />
+    <Producto_id data="{id_blux}" />
+   
+    <!-- 
+    NUEVO  
+    separados por ", " coma y espacio -->
+    <Producto_Colecciones data-name="{name-coleccion}, {name-coleccion}" data-name-en="{name-coleccion-en}, {name-coleccion-en}" />
+    <!--
+    ANTIGUO
+    <Producto_id_Colecciones>
+      <Coleccion data-name="{coleccion}, {coleccion}">
+      </Coleccion>
+    </Producto_id_Colecciones>
+    -->
+
+    <!-- 
+    NUEVO 
+    En caso de tener varias familias separar valores con ", " coma y espacio.
+    data-name="{nombre}, {nombre}"
+    -->
+    <Producto_Familia data-name="{name-familia}" data-name-en="{name-familia-en}">
+    <!--
+    ANTIGUO
+    <Producto_id_Familia>
+      <Familia data-name="{nombre}">
+      </Familia>
+    </Producto_id_Familia>
+    -->
+
+    <!-- 
+    NUEVO
+    En caso de tener varias funciones separar valores con ", " coma y espaci
+    data-name="{name-funcion}, {name-funcion}"
+    -->
+    <Producto_Funcion data-name="{name-funcion}" data-name-en="{name-funcion-en}">
+
+    <!-- 
+    ANTIGUO    
+    <Producto_id_Funcion>
+      <Funcion data-name="{funcion}, {funcion}">
+      </Funcion>
+    </Producto_id_Funcion>
+    -->
+    
+    <Producto_Images_Galeria_Loop>
+      <Image_galeria data-alt="1950x850" data-url="{url}">
+      </Image_galeria>
+    </Producto_Images_Galeria_Loop>
+    <Images_Icon_Loop>
+      <Image_Icon data-name="{name}" data-name-en="{name-en}" data-url="{url}"></Image_Icon>
+      <Image_Icon data-name="{name}" data-name-en="{name-en}" data-url="{url}"></Image_Icon>
+    </Images_Icon_Loop>
+    <Modelos_loop>
+      <Modelo modelo-id="{id-modelo}" modelo-nombre="{name}" modelo-nombre-en="{name-en}" modelo-iluminacion="9W 1100lm 500mA " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>
+      <Modelo modelo-id="{id-modelo}" modelo-nombre="{name}" modelo-nombre-en="{name-en}" modelo-iluminacion="9W 1100lm 500mA " modelo-artwork="">
+        <Modelo_Acabados_Loop>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+          <Modelo_Acabado data-ref="{referencia}" data-name="{name-acabado}" data-name-en="{name-acabado-en}" data-url-image="{url-image}"></Modelo_Acabado>
+        </Modelo_Acabados_Loop>
+      </Modelo>  
+    </Modelos_loop>
+  </producto>
+</Cabecera> 

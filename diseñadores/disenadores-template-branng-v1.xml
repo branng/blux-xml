@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cabecera>
+  <Disenador data-nombre-es="Pedro Jiménez"  data-nombre-en="Pedro Jiménez">
+    <Disenador_id data="1" />
+    <ImageUrl data="https://bluxweb000.blob.core.windows.net/producto-img-thumb/Bowee_F_featured.jpg" />
+    <Descripcion data="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac laoreet augue. Nunc finibus porttitor massa, ut scelerisque nulla mattis ac. Ut eu elit arcu. Maecenas eget leo lacinia, porttitor ligula vel, pellentesque dui. Donec ac egestas ante, in iaculis justo. Donec dolor elit, cursus in dignissim in, pellentesque in eros. Suspendisse pellentesque mi vel libero sollicitudin, nec viverra ligula viverra. Fusce augue lorem, blandit in tristique eget, venenatis id lectus. Curabitur eu odio diam. Aliquam faucibus facilisis odio, eu euismod odio ultricies eu. Fusce venenatis ante vel eros placerat, vitae condimentum erat congue. Praesent dolor magna, tristique at ornare non, vehicula quis augue."></Descripcion>
+    <Colecciones data="Coleccion 1, Colección 2"></Colecciones>  
+  </Disenador>
+  <Disenador data-nombre="Juan Palomo">
+    <Disenador_id data="2" />
+    <ImageUrl data="https://bluxweb000.blob.core.windows.net/producto-img-thumb/Bowee_F_featured.jpg" />
+    <Descripcion data="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac laoreet augue. Nunc finibus porttitor massa, ut scelerisque nulla mattis ac. Ut eu elit arcu. Maecenas eget leo lacinia, porttitor ligula vel, pellentesque dui. Donec ac egestas ante, in iaculis justo. Donec dolor elit, cursus in dignissim in, pellentesque in eros. Suspendisse pellentesque mi vel libero sollicitudin, nec viverra ligula viverra. Fusce augue lorem, blandit in tristique eget, venenatis id lectus. Curabitur eu odio diam. Aliquam faucibus facilisis odio, eu euismod odio ultricies eu. Fusce venenatis ante vel eros placerat, vitae condimentum erat congue. Praesent dolor magna, tristique at ornare non, vehicula quis augue."></Descripcion>
+    <Colecciones data="Coleccion 1, Colección 2"></Colecciones>  
+  </Disenador>
+  <Disenador data-nombre="María Pérez">
+    <Disenador_id data="3" />
+    <ImageUrl data="https://bluxweb000.blob.core.windows.net/producto-img-thumb/Bowee_F_featured.jpg" />
+    <Descripcion data="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac laoreet augue. Nunc finibus porttitor massa, ut scelerisque nulla mattis ac. Ut eu elit arcu. Maecenas eget leo lacinia, porttitor ligula vel, pellentesque dui. Donec ac egestas ante, in iaculis justo. Donec dolor elit, cursus in dignissim in, pellentesque in eros. Suspendisse pellentesque mi vel libero sollicitudin, nec viverra ligula viverra. Fusce augue lorem, blandit in tristique eget, venenatis id lectus. Curabitur eu odio diam. Aliquam faucibus facilisis odio, eu euismod odio ultricies eu. Fusce venenatis ante vel eros placerat, vitae condimentum erat congue. Praesent dolor magna, tristique at ornare non, vehicula quis augue."></Descripcion>
+    <Colecciones data="Coleccion 1, Colección 2"></Colecciones>  
+  </Disenador>
+  <Disenador data-nombre="Alfonso Biedma">
+    <Disenador_id data="5" />
+    <ImageUrl data="https://bluxweb000.blob.core.windows.net/producto-img-thumb/Bowee_F_featured.jpg" />
+    <Descripcion data="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac laoreet augue. Nunc finibus porttitor massa, ut scelerisque nulla mattis ac. Ut eu elit arcu. Maecenas eget leo lacinia, porttitor ligula vel, pellentesque dui. Donec ac egestas ante, in iaculis justo. Donec dolor elit, cursus in dignissim in, pellentesque in eros. Suspendisse pellentesque mi vel libero sollicitudin, nec viverra ligula viverra. Fusce augue lorem, blandit in tristique eget, venenatis id lectus. Curabitur eu odio diam. Aliquam faucibus facilisis odio, eu euismod odio ultricies eu. Fusce venenatis ante vel eros placerat, vitae condimentum erat congue. Praesent dolor magna, tristique at ornare non, vehicula quis augue."></Descripcion>
+    <Colecciones data="Coleccion 1, Colección 2"></Colecciones>  
+  </Disenador>
+</Cabecera> 
